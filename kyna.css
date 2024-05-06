@@ -1,0 +1,21 @@
+*{
+margin: 3px;
+padding: 5px;
+box-sizing: border-box;
+font-family: cursive;
+}
+
+
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: left;
+    align-items: normal;
+
+}
+
+form input {
+    margin: 3px;
+    padding: 3px;
+}
+
